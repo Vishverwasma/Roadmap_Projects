@@ -1,0 +1,3 @@
+[submodule "GuessingGame"]
+	path = GuessingGame
+	url = https://github.com/Vishverwasma/GuessingGame.git
